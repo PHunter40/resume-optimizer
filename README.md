@@ -1,2 +1,2 @@
-# resume-optimizer
+# Resume-optimizer
 Resume optimization app with Claude AI
